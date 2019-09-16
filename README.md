@@ -36,3 +36,6 @@ Slot 2 (0x2): Linux 3.10.0-957.27.2.el7.x86_64.debug Linux (SCA)
   token state:   uninitialized
 ```
 
+## Thanks
+
+* The Packages are from https://ftp.nohats.ca/sca6000/
